@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "Angga-Official",
   "version": "0.0.5",
   "description": "whatsapp bot with multi device.",
   "main": "haruka.js",
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Angga-Official",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "github:zeeone-ofc/baileys",
